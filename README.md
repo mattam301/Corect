@@ -37,3 +37,14 @@ bash run_eval.sh
 ```
 ## Acknowledgments
 The structure of code inspired by: [dialogue_gcn](https://github.com/mianzhang/dialogue_gcn)
+
+## Citation
+
+@misc{nguyen2023conversation,
+      title={Conversation Understanding using Relational Temporal Graph Neural Networks with Auxiliary Cross-Modality Interaction}, 
+      author={Cam-Van Thi Nguyen and Anh-Tuan Mai and The-Son Le and Hai-Dang Kieu and Duc-Trong Le},
+      year={2023},
+      eprint={2311.04507},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
